@@ -118,3 +118,43 @@
 20:40:43.979 [main] INFO  api.test.UserTests2 - *********User is Updated ***************
 20:40:45.416 [main] INFO  api.test.UserTests2 - *********Deleting User ***************
 20:40:46.918 [main] INFO  api.test.UserTests2 - ********* User Deleted ***************
+20:54:17.990 [main] INFO  api.test.UserTests2 - *********Creating User ***************
+20:54:22.169 [main] INFO  api.test.UserTests2 - *************User is Created*************
+20:54:22.185 [main] INFO  api.test.UserTests2 - *********Fetch User Details ***************
+20:54:23.665 [main] INFO  api.test.UserTests2 - *********User Info is displaced ***************
+20:54:23.667 [main] INFO  api.test.UserTests2 - *********Updating User ***************
+20:54:25.182 [main] INFO  api.test.UserTests2 - *********User is Updated ***************
+20:54:26.682 [main] INFO  api.test.UserTests2 - *********Deleting User ***************
+20:54:28.250 [main] INFO  api.test.UserTests2 - ********* User Deleted ***************
+20:55:36.765 [main] INFO  api.test.UserTests2 - *********Creating User ***************
+20:55:40.494 [main] INFO  api.test.UserTests2 - *************User is Created*************
+20:55:40.510 [main] INFO  api.test.UserTests2 - *********Fetch User Details ***************
+20:55:42.051 [main] INFO  api.test.UserTests2 - *********User Info is displaced ***************
+20:55:42.051 [main] INFO  api.test.UserTests2 - *********Updating User ***************
+20:55:43.549 [main] INFO  api.test.UserTests2 - *********User is Updated ***************
+20:55:45.046 [main] INFO  api.test.UserTests2 - *********Deleting User ***************
+20:55:46.594 [main] INFO  api.test.UserTests2 - ********* User Deleted ***************
+00:38:24.454 [main] INFO  api.test.UserTests2 - *********Creating User ***************
+00:38:28.826 [main] INFO  api.test.UserTests2 - *************User is Created*************
+00:38:28.840 [main] INFO  api.test.UserTests2 - *********Fetch User Details ***************
+00:38:30.373 [main] INFO  api.test.UserTests2 - *********User Info is displaced ***************
+00:38:30.380 [main] INFO  api.test.UserTests2 - *********Updating User ***************
+00:38:31.969 [main] INFO  api.test.UserTests2 - *********User is Updated ***************
+00:38:33.529 [main] INFO  api.test.UserTests2 - *********Deleting User ***************
+00:38:35.190 [main] INFO  api.test.UserTests2 - ********* User Deleted ***************
+00:39:52.468 [main] INFO  api.test.UserTests2 - *********Creating User ***************
+00:39:56.575 [main] INFO  api.test.UserTests2 - *************User is Created*************
+00:39:56.590 [main] INFO  api.test.UserTests2 - *********Fetch User Details ***************
+00:39:58.167 [main] INFO  api.test.UserTests2 - *********User Info is displaced ***************
+00:39:58.170 [main] INFO  api.test.UserTests2 - *********Updating User ***************
+00:39:59.681 [main] INFO  api.test.UserTests2 - *********User is Updated ***************
+00:40:01.240 [main] INFO  api.test.UserTests2 - *********Deleting User ***************
+00:40:02.887 [main] INFO  api.test.UserTests2 - ********* User Deleted ***************
+00:40:15.029 [main] INFO  api.test.UserTests2 - *********Creating User ***************
+00:40:19.121 [main] INFO  api.test.UserTests2 - *************User is Created*************
+00:40:19.153 [main] INFO  api.test.UserTests2 - *********Fetch User Details ***************
+00:40:20.699 [main] INFO  api.test.UserTests2 - *********User Info is displaced ***************
+00:40:20.699 [main] INFO  api.test.UserTests2 - *********Updating User ***************
+00:40:22.199 [main] INFO  api.test.UserTests2 - *********User is Updated ***************
+00:40:23.713 [main] INFO  api.test.UserTests2 - *********Deleting User ***************
+00:40:25.305 [main] INFO  api.test.UserTests2 - ********* User Deleted ***************
